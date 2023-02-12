@@ -1,0 +1,24 @@
+.create-page__container {
+    height: 350px;
+    width: 350px;
+    margin: 50px auto;
+    padding: 10px;
+    border: 1px solid rgb(187, 183, 183);
+    border-radius: 10px;
+    background-color: gray;
+}
+
+.create {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.create-heading {
+    margin: 5px;
+}
+
+
+
+
+
